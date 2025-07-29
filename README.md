@@ -14,6 +14,7 @@ Prodi: Bisnis Digital
 - Fitur: CRUD Barang, Mencari Barang, Ekspor Laporan CSV, dan Backup Database
 
 Sistem ini dirancang untuk membantu pengguna mengelola barang secara mudah dan praktis melalui antarmuka baris perintah (CLI). Aplikasi ini mendukung CRUD, laporan stok barang, pencarian barang, dan backup database. Tujuannya untuk memberikan kemudahan dalam pembuatan laporan stok dan memudahkan pencarian barang dengan kata kunci. Sistem ini juga menyediakan sarana untuk menambah, mengubah, menghapus, dan melihat data barang.
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/6ed8edd0-a704-407d-b99d-d16b8c23acf4" />
 
 ## Penjelasan Code
 Setiap fungsi di dalam program dilengkapi komentar penjelas tentang nama fungsi, input, output, dan tujuannya.
