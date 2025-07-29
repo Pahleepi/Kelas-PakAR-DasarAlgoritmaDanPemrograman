@@ -1,5 +1,5 @@
 # UAS-DasarAlgoritmaDanPemrograman
-Repository untuk UTS mata kuliah Dasar Algoritma dan Pemrograman pada program studi Bisnis Digital.
+Repository untuk UAS mata kuliah Dasar Algoritma dan Pemrograman pada program studi Bisnis Digital.
 
 Nama: Atabik Pahlevi
 Nim: 24110310008
